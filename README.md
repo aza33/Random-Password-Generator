@@ -52,6 +52,7 @@ Random Password Generator
 - **Python 3** - язык программирования
 - **Tkinter** - стандартная GUI-библиотека Python
 - **JSON** - формат хранения данных
+- **Random**- библиотека
 
 
 
